@@ -1,0 +1,7 @@
+C:\Users\eduf0\source\repos\Urnas\Urnas\obj\Debug\Urnas.csproj.AssemblyReference.cache
+C:\Users\eduf0\source\repos\Urnas\Urnas\obj\Debug\Urnas.csproj.CoreCompileInputs.cache
+C:\Users\eduf0\source\repos\Urnas\Urnas\bin\Debug\Urnas.exe.config
+C:\Users\eduf0\source\repos\Urnas\Urnas\bin\Debug\Urnas.exe
+C:\Users\eduf0\source\repos\Urnas\Urnas\bin\Debug\Urnas.pdb
+C:\Users\eduf0\source\repos\Urnas\Urnas\obj\Debug\Urnas.exe
+C:\Users\eduf0\source\repos\Urnas\Urnas\obj\Debug\Urnas.pdb

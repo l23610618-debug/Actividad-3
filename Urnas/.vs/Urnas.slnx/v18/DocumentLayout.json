@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduf0\\source\\repos\\Urnas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2360ACB4-2522-488B-B006-2FADAF20F97E}|Urnas\\Urnas.csproj|c:\\users\\eduf0\\source\\repos\\urnas\\urnas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2360ACB4-2522-488B-B006-2FADAF20F97E}|Urnas\\Urnas.csproj|solutionrelative:urnas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduf0\\source\\repos\\Urnas\\Urnas\\Program.cs",
+              "RelativeDocumentMoniker": "Urnas\\Program.cs",
+              "ToolTip": "C:\\Users\\eduf0\\source\\repos\\Urnas\\Urnas\\Program.cs",
+              "RelativeToolTip": "Urnas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T02:03:23.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

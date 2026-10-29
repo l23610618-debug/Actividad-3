@@ -1,0 +1,7 @@
+C:\Users\eduf0\source\repos\Maquinas A,B,C\Maquinas A,B,C\bin\Debug\Maquinas A,B,C.exe.config
+C:\Users\eduf0\source\repos\Maquinas A,B,C\Maquinas A,B,C\bin\Debug\Maquinas A,B,C.exe
+C:\Users\eduf0\source\repos\Maquinas A,B,C\Maquinas A,B,C\bin\Debug\Maquinas A,B,C.pdb
+C:\Users\eduf0\source\repos\Maquinas A,B,C\Maquinas A,B,C\obj\Debug\Maquinas A,B,C.csproj.AssemblyReference.cache
+C:\Users\eduf0\source\repos\Maquinas A,B,C\Maquinas A,B,C\obj\Debug\Maquinas A,B,C.csproj.CoreCompileInputs.cache
+C:\Users\eduf0\source\repos\Maquinas A,B,C\Maquinas A,B,C\obj\Debug\Maquinas A,B,C.exe
+C:\Users\eduf0\source\repos\Maquinas A,B,C\Maquinas A,B,C\obj\Debug\Maquinas A,B,C.pdb
